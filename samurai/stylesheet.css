@@ -99,7 +99,7 @@ body{
   color: #fff;
   font-size: 16px;
   border-left: 10px solid #c00;
-  background:#f90 url(../images/main_h2.jpg) right top repeat-y;
+  background:#f90 url(samurai/images/main_h2.jpg) right top repeat-y;
 
 }
 
@@ -151,7 +151,7 @@ margin: 0 0 30px;
 #side .box{
   margin: 0 auto 30px ;
   padding: 0 0 20px;
-  background: url(images/side_box.png) bottom no-repeat;
+  background: url(samurai/images/side_box.png) bottom no-repeat;
 }
 
 #side .box h2{
@@ -162,7 +162,7 @@ margin: 0 0 30px;
   font-size: 16px;
   line-height: 16px;
   font-weight: normal;
-  background: url(images/side_box_h2.png) center no-repeat;
+  background: url(samurai/images/side_box_h2.png) center no-repeat;
 }
 
 #side .box .boxBody{
